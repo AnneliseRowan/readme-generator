@@ -31,7 +31,7 @@ ${replies.usage}
 #Contribution Guidelines
 ${replies.contribution}
 #Tests
-Some of the tests that I ran for this project are: ${replies.tests}.
+Some of the tests that I ran for this project are: ${replies.test}.
 #License
 ${replies.license}
 #Github
