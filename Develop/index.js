@@ -26,17 +26,17 @@ ${replies.owner}
 ${replies.description}
 # Installation
 ${replies.installation}
-#Usage
+# Usage
 ${replies.usage}
-#Contribution Guidelines
+# Contribution Guidelines
 ${replies.contribution}
-#Tests
+# Tests
 Some of the tests that I ran for this project are: ${replies.test}.
-#License
+# License
 ${replies.license}
-#Github
+# Github
 Please visit my ${replies.username} to visit my work.
-#Email
+# Email
 My Email is ${replies.email}. Feel free to reach me here.`;
 
 inquirer
