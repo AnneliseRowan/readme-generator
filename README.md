@@ -13,7 +13,7 @@ Let my generator do the readMe.md file for you so that you can spend more time o
 ![](Develop/images/InkedScreenshot-2021-05-23-145207_LI.jpg)
 ![](Develop/images/Screenshot-2021-05-23-151033.png)
 
-![link to a video](https://drive.google.com/file/d/1ncKlR3jclCuwWREkMoTNQYIleqWR2kzh/view)
+![link to a video](Develop/images/screenvideo_ May-23,-2021-3_20-PM.mp4)
 
 ## Issues
 
