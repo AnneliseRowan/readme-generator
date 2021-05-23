@@ -10,7 +10,7 @@ Let my generator do the readMe.md file for you so that you can spend more time o
 
 ## Example
 
-![](Develop/images/Screenshot 2021-05-23 145207.png)
+![](Develop/images/Screenshot-2021-05-23-145207.png)
 
 ## Issues
 
