@@ -1,7 +1,10 @@
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer"); 
 const fs = require("fs"); 
-const questions = require("./questions.js");
+const questions = require("./questions");
+const badgeIcon = require("./badges"); 
+const licenseText = require("./licenses"); 
+let badge; 
 
 // TODO: Create an array of questions for user input
 inquirer
@@ -16,9 +19,9 @@ inquirer
                 replies.license = licenseText.apache; 
                 badge = badgeIcon.apache
                 break;
-            case "GPL" :
-                replies.license = licenseText.gpl; 
-                badge = badgeIcon.gpl
+            case "GNU" :
+                replies.license = licenseText.gnu; 
+                badge = badgeIcon.gnu
                 break; 
             case "ISC" :
                 replies.license = licenseText.isc;
@@ -68,12 +71,12 @@ My Email is ${replies.email}. Feel free to reach me here.`;
 
 
 
-function writeToFile(fileName, data) {
+// function writeToFile(fileName, data) {
 
-}
+// }
 
-// TODO: Create a function to initialize app
-function init() {}
+// // TODO: Create a function to initialize app
+// function init() {}
 
-// Function call to initialize app
-init();
+// // Function call to initialize app
+// init();

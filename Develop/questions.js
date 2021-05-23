@@ -1,4 +1,4 @@
-const questions = [
+module.exports = [
     {
         type: 'input',
         name: 'title',
@@ -7,12 +7,12 @@ const questions = [
       {
         type: 'input',
         name: 'owner',
-        message: 'What is your name?',
+        message: 'What is your first and last name?',
       },
       {
         type: 'input',
         name: 'description',
-        message: 'Where is a description of you project?',
+        message: 'What is a description of you project?',
       },
       {
         type: 'input',
@@ -50,4 +50,4 @@ const questions = [
         name: 'email',
         message: 'What is your email address?',
       },
-]
+];
