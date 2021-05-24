@@ -35,7 +35,7 @@ Some of the tests that I ran for this project are: ${replies.test}.
 # License
 ${replies.license}
 # Github
-Please visit my ${replies.username} to visit my work.
+Please visit my Github ${replies.username} to see my other work.
 # Email
 My Email is ${replies.email}. Feel free to reach me here.`;
 
