@@ -7,6 +7,7 @@ Annelise Rowan
 ## Description
 
 Let my generator do the readMe.md file for you so that you can spend more time on your web application. This application uses node.js to generate a readme.md file. It will prompt you in the command line with necessary questions and build your pesonalized readMe from there. 
+
 •	Used Node Js, Javascript, NPM – Inquirer, Command Line
 
 ## Example
