@@ -12,27 +12,30 @@ module.exports = [
       {
         type: 'input',
         name: 'description',
-        message: 'What is a description of you project?',
+        message: 'Why did you build this project? Or What problem does this application solve?',
       },
       {
         type: 'input',
         name: 'installation',
-        message: 'What are the installation instructions?',
+        message: 'What are the steps required to install your project?',
       },
       {
         type: 'input',
         name: 'usage',
-        message: `What is your project's usage information?`,
+        message: `Provide instructions and examples for use. Include screenshots as needed. To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+                ```md
+                ![alt text](assets/images/screenshot.png)
+                ````,
       },
       {
         type: 'input',
         name: 'contribution',
-        message: "What are the contribution guidelines?",
+        message: "Please list your collaborators and their Github username?",
       },
       {
         type: 'input',
         name: 'test',
-        message: 'What are the test instructions?',
+        message: 'Did you do any automated testing?',
       },
       {
         type: 'list',
