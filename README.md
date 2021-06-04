@@ -15,7 +15,7 @@ Let my generator do the readMe.md file for you so that you can spend more time o
 ![](Develop/images/InkedScreenshot-2021-05-23-145207_LI.jpg)
 ![](Develop/images/Screenshot-2021-05-23-151033.png)
 
-Here is a walk-through video for you: https://youtu.be/Y9WqTk2G0M4
+Here is a walk-through video for you: https://youtu.be/B2oAVtXVL2E
 
 ![](Develop/images/Personalized-ReadMe-Generator.gif)
 
